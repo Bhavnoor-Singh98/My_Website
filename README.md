@@ -1,2 +1,2 @@
 # My_Website
-It is CSS and HTML based website.
+It is my CSS and HTML based website.
